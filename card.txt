@@ -1,0 +1,4 @@
+echo "pls insert your card"
+echo "pls insert your pin"
+echo "Thank you for banking with us"
+
